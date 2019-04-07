@@ -4,10 +4,9 @@ title:  "GitHub 블로그 만들기"
 date:   2019-04-06 23:13:59
 author: Ada Lovelace
 categories: Etc
+tags:	GitHub Pages Blog
 cover:  "/assets/instacode.png"
 ---
-
-[TOC]
 
 GitHub 블로그를 생성하면서 삽질한 내용을 간략하게 정리합니다.
 
